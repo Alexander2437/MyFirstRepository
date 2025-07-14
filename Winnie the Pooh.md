@@ -1,3 +1,3 @@
 The best Piglet's friend.
 
-Trying amend function.
+Trying amend function. Added corrections.
